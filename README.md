@@ -1,6 +1,7 @@
 # Humpty Dumpty  
 
 A simple yet engaging 2D game built using C++ and the iGraphics game development library. The player controls a ball in a 2D space, navigating through obstacles, collecting stars, and completing levels in record time to achieve high rankings.
+![Cover](https://github.com/user-attachments/assets/d9dc737c-4259-4f1e-9b6b-d170603d6a31)
 
 ## 🕹️ Game Features  
 
@@ -30,15 +31,22 @@ A simple yet engaging 2D game built using C++ and the iGraphics game development
 3. You will need Microsoft Visual Studio 2012
 
 ## 🎮Gameplay demo
-(screenshots)
+![Level1](https://github.com/user-attachments/assets/357fdf2a-24f5-4abb-8bc7-35247b8a60ed)
+![level2](https://github.com/user-attachments/assets/1cf4847d-41eb-4d13-a147-a83acfbd6e75)
+
+- **Gameplay Video**: https://www.youtube.com/watch?v=8THBytkSqf0
+
+
+
+
 
 ## 📊 Ranking System  
 
 At the end of each level, your completion time is recorded. Finish all three levels to see your ranking:  
 
-- **Gold Rank**: Completed in less than X minutes.  
-- **Silver Rank**: Completed in less than Y minutes.  
-- **Bronze Rank**: Completed in less than Z minutes.  
+- **Gold Rank**: Completed in less than 1 minutes.  
+- **Silver Rank**: Completed in less than 5 minutes.  
+- **Bronze Rank**: Completed in less than 10 minutes.  
 
 ## 🚀 Future Improvements  
 
